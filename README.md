@@ -39,7 +39,7 @@ I work where human judgment meets practical AI infrastructure. The through-line 
 
 ## Signals
 
-- [barnirhired.com](https://barnirhired.com/) - private hiring OS for building better customer-facing teams
+- [barnirhired.com](https://barnirhired.com/) - job-fit analysis for people applying to technical, customer-facing roles like Solutions Architect, Customer Success, Sales Engineering, Forward Deployment, TAM, and Support Engineering
 - 13+ products and experiments shipped
 - 4 books across AI, leadership, and human systems
 
