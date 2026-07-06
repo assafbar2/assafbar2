@@ -30,6 +30,7 @@ I work where human judgment meets practical AI infrastructure. The through-line 
 | [gram-reaper](https://github.com/assafbar2/gram-reaper) | An open-source protein tracker with natural-language AI parsing, quick-add cards, streaks, and PWA install. | Vue, SQLite, Claude |
 | [ground-truth](https://github.com/assafbar2/ground-truth) | One topic, five editorial perspectives, no feed and no algorithmic addiction loop. | Next.js, xAI |
 | [logo-v2](https://github.com/assafbar2/logo-v2) | A remake of the generational Logo turtle educational system from the beginning of personal computing. | JavaScript, Logo, education |
+| [ada-quest](https://github.com/assafbar2/ada-quest) | Interactive Ada and SPARK missions for learning systems safety through small bugs. | JavaScript, Ada, SPARK |
 
 ## Current Focus
 
