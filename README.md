@@ -47,6 +47,8 @@ I work where human judgment meets practical AI infrastructure. The through-line 
 - A growing portfolio of shipped products, experiments, books, and live tools across AI, support, education, and human systems
 - 4 books across AI, leadership, and human systems
 
-## Stack
+## Current Stack on GitHub
 
-Python, TypeScript, React, Next.js, Vue, Astro, FastAPI, Node.js, SQLite, Tauri, Cloud Run, Vercel, GitLab MCP, OpenAI, Gemini, Claude
+- Languages: TypeScript, Python, JavaScript, HTML/CSS, Go, Rust, Ada/SPARK
+- Frontend/app: React, Next.js, Vue, Astro, Vite, Tailwind, Tauri, Tone.js
+- Backend/AI/infra: FastAPI, Express, Node.js, SQLite, Zod, Vitest, Docker, Cloud Run, Vercel, GitHub Pages, MCP/GitLab MCP, Google ADK, OpenAI, Gemini, Claude/Anthropic, xAI
