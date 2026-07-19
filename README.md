@@ -27,6 +27,7 @@ I work where human judgment meets practical AI infrastructure. The through-line 
 | [the-support-machine](https://github.com/assafbar2/the-support-machine) | A free book and executable AI-agent skill for deploying AI in customer support without breaking trust. | Python, AI support, operating model |
 | [flux-hackathon-2026](https://github.com/assafbar2/flux-hackathon-2026) | Live onboarding intelligence for GitLab teams, built with Google ADK, Gemini, GitLab MCP, Notion, and Cloud Run. | Python, Gemini, GitLab MCP |
 | [Vessel](https://github.com/assafbar2/Vessel) | A private therapeutic writing environment inspired by EMDR, with local encryption and adaptive atmosphere. | TypeScript, Tauri |
+| [Conflict 2027](https://conflict-2027.vercel.app/) | A 48-turn political simulation game where peace is winnable and genuinely hard, with deterministic game balance and optional Claude-authored briefings, crises, and negotiation counterparts. | TypeScript, Next.js, Claude, simulation |
 | [gram-reaper](https://github.com/assafbar2/gram-reaper) | An open-source protein tracker with natural-language AI parsing, quick-add cards, streaks, and PWA install. | Vue, SQLite, Claude |
 | [ground-truth](https://github.com/assafbar2/ground-truth) | One topic, five editorial perspectives, no feed and no algorithmic addiction loop. | Next.js, xAI |
 | [logo-v2](https://github.com/assafbar2/logo-v2) | A remake of the generational Logo turtle educational system from the beginning of personal computing. | JavaScript, Logo, education |
