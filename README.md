@@ -9,7 +9,7 @@ Ships weekly on Agent Switchboard; recently open-sourced Greenroom and CALL-E.
 ## Shipping
 
 - **[The Support Machine](https://github.com/assafbar2/the-support-machine)** — Field guide + executable AI skill for support that isn't chatbot theater. [site](https://assafbar2.github.io/the-support-machine/)
-- **[Greenroom](https://github.com/assafbar2/greenroom)** — LLM panel that argues blind; you keep the ledger.
+- **[Greenroom](https://github.com/assafbar2/greenroom)** — For builders (especially hackathons): multi-model panel that argues blind—you keep the ledger.
 - **[Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev)** — Curated agents/MCP directory with weekly catalog drops. [live](https://agentswitchboard.dev)
 - **[CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon)** — Voice agents that ring the CS owner, not the customer. [live](https://assafbar2.github.io/customer-success-voice-signal-hackathon/)
 - **[Vessel](https://github.com/assafbar2/Vessel)** — Therapeutic writing for self care (EMDR-inspired).
