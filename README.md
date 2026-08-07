@@ -2,6 +2,8 @@
 
 Ships tools, skills, and hacks for AI that has to work in real orgs.
 
+Day job: rebuilding customer-facing technical orgs at Sentry.io. Before: RapidAPI, Netomi, PubNub, Zendesk.
+
 [Repos](https://github.com/assafbar2?tab=repositories) · [Skills·book](https://assafbar2.github.io/the-support-machine/) · [barnir.co](https://barnir.co)
 
 Ships weekly on Agent Switchboard; recently open-sourced Greenroom and CALL-E.
