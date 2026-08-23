@@ -40,7 +40,7 @@ Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 [Ada Quest](https://assafbar2.github.io/ada-quest/) ·
 [Logo](https://github.com/assafbar2/logo-v2)
 
-🔒 = live and playable, source private — these two are for sale.
+🔒 = live and playable, source private.
 
 ## Elsewhere
 
