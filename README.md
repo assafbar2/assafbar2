@@ -24,11 +24,12 @@ Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 **Hackathons** —
 [Suspect Memories](https://github.com/assafbar2/suspect-memories) ·
 [Flux](https://github.com/assafbar2/flux-hackathon-2026) ·
-[Conflict: 2027](https://conflict-2027.vercel.app/) 🔒
+[CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon)
 
 **Brain games** —
 [Odometer](https://odometer-game.vercel.app) 🔒 ·
-[Prime Suspects](https://github.com/assafbar2/prime-suspects)
+[Conflict: 2027](https://conflict-2027.vercel.app/) 🔒 ·
+[Prime Suspects](https://assafbar2.github.io/prime-suspects/)
 
 **Take care of yourself** —
 [NowPath](https://nowpath-bice.vercel.app) ·
@@ -37,7 +38,7 @@ Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 **CS education** —
 [Ada Revival](https://github.com/assafbar2/ada-revival) ·
 [Ada Quest](https://assafbar2.github.io/ada-quest/) ·
-[Spark Class](https://github.com/assafbar2/spark-class)
+[Logo](https://github.com/assafbar2/logo-v2)
 
 🔒 = live and playable, source private — these two are for sale.
 
