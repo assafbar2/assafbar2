@@ -24,7 +24,8 @@ Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 **Hackathons** —
 [Suspect Memories](https://github.com/assafbar2/suspect-memories) ·
 [Flux](https://github.com/assafbar2/flux-hackathon-2026) ·
-[CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon)
+[CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon) ·
+[Conflict: 2027](https://conflict-2027.vercel.app/) 🔒
 
 **Brain games** —
 [Odometer](https://odometer-game.vercel.app) 🔒 ·
