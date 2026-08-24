@@ -43,7 +43,6 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 [Logo](https://github.com/assafbar2/logo-v2)
 
 🔒 = live and playable, source private.
-Greenroom and Suspect Memories are the tools I built to trust the agents that build the rest.
 
 ## Elsewhere
 
