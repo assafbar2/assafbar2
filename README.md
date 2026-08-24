@@ -17,7 +17,7 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 [Sentry Playground](https://github.com/assafbar2/Sentry-Playground) ·
 [barnirhired](https://barnirhired.com/)
 
-**Agents & tools** —
+**How I build** —
 [Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev) ·
 [Greenroom](https://github.com/assafbar2/greenroom) ·
 [Ground Truth](https://github.com/assafbar2/ground-truth)
@@ -43,6 +43,7 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 [Logo](https://github.com/assafbar2/logo-v2)
 
 🔒 = live and playable, source private.
+Greenroom and Suspect Memories are the tools I built to trust the agents that build the rest.
 
 ## Elsewhere
 
