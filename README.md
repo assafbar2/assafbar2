@@ -1,7 +1,7 @@
 # Barnir
 
-Operator + engineer. I rebuild customer-facing technical orgs for the AI era — and ship the tools.
-Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
+I run customer-facing technical orgs and ship the tools they run on.
+Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 
 **Start here:**
 [The Support Machine](https://github.com/assafbar2/the-support-machine) — the book + AI skill ·
@@ -14,9 +14,10 @@ Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 [The Support Machine](https://github.com/assafbar2/the-support-machine) ·
 [CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon) ·
 [fcli](https://github.com/assafbar2/fcli) ·
+[Sentry Playground](https://github.com/assafbar2/Sentry-Playground) ·
 [barnirhired](https://barnirhired.com/)
 
-**Agents & tools** —
+**How I build** —
 [Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev) ·
 [Greenroom](https://github.com/assafbar2/greenroom) ·
 [Ground Truth](https://github.com/assafbar2/ground-truth)
@@ -42,6 +43,7 @@ Day job: [Sentry](https://sentry.io). Before: RapidAPI, Netomi, PubNub, Zendesk.
 [Logo](https://github.com/assafbar2/logo-v2)
 
 🔒 = live and playable, source private.
+Greenroom and Suspect Memories are the tools I built to trust the agents that build the rest.
 
 ## Elsewhere
 
