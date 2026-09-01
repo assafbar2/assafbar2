@@ -7,7 +7,7 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 
 [The Support Machine](https://github.com/assafbar2/the-support-machine) — a book and an AI skill. Stop treating support AI like chatbot theater.
 
-[Agent Switchboard](https://agentswitchboard.dev) — 300+ agents, and the directory is itself an MCP server.
+[Agent Switchboard](https://agentswitchboard.dev) — 400+ agents. MCP and webMCP, for humans and agents.
 
 [Suspect Memories](https://github.com/assafbar2/suspect-memories) — git bisect for the memory that broke your agent.
 
