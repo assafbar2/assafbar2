@@ -20,7 +20,7 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 **Customer success**  
 *the operating layer, not the chatbot.*
 
-[The Support Machine](https://github.com/assafbar2/the-support-machine) · [CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon) · [fcli](https://github.com/assafbar2/fcli) · [Sentry Playground](https://github.com/assafbar2/Sentry-Playground) · [barnirhired](https://barnirhired.com/)
+[The Support Machine](https://github.com/assafbar2/the-support-machine) · [RECEIPT](https://github.com/assafbar2/receipt) · [CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon) · [fcli](https://github.com/assafbar2/fcli) · [Sentry Playground](https://github.com/assafbar2/Sentry-Playground) · [barnirhired](https://barnirhired.com/)
 
 </td>
 <td valign="top" width="33%">
@@ -28,7 +28,7 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 **How I build**  
 *agents as coworkers, with minutes and a directory.*
 
-[Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev) · [Greenroom](https://github.com/assafbar2/greenroom) · [Ground Truth](https://github.com/assafbar2/ground-truth)
+[Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev) · [Greenroom](https://github.com/assafbar2/greenroom) · [Ground Truth](https://github.com/assafbar2/ground-truth) · [Muse connector (unofficial)](https://github.com/assafbar2/unofficial-sentry-muse-connector)
 
 </td>
 <td valign="top" width="33%">
