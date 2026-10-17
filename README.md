@@ -62,7 +62,7 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 **CS education**  
 *make the old languages delightful again.*
 
-[Mainframe Lab](https://github.com/assafbar2/mainframe-assembly-lab) · [Ada Revival](https://github.com/assafbar2/ada-revival) · [Ada Quest](https://assafbar2.github.io/ada-quest/) · [Logo](https://github.com/assafbar2/logo-v2)
+[Mainframe Lab](https://github.com/assafbar2/mainframe-assembly-lab) · [VMS LSE](https://github.com/assafbar2/vms-lse-pascal) ([runtime](https://assafbar2.github.io/vms-lse-pascal/)) · [Ada Revival](https://github.com/assafbar2/ada-revival) · [Ada Quest](https://assafbar2.github.io/ada-quest/) · [Logo](https://github.com/assafbar2/logo-v2)
 
 </td>
 </tr>
