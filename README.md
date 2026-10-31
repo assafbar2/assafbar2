@@ -46,6 +46,8 @@ Support · SE · CS · TAM · FDE. Day job: [Sentry](https://sentry.io). Before:
 **Brain games**  
 *toys that pretend they're something else.*
 
+[**Rumor Room — Play**](https://assafbar2.github.io/Rumor-Room-Muse-Edition/) — ten fictional scandals, four research turns, one lie. [Case study](https://www.barnir.co/builds/rumor-room) · [Original AI build](https://github.com/assafbar2/rumor-room#readme).
+
 [Odometer](https://odometer-game.vercel.app) 🔒 · [Prime Suspects](https://assafbar2.github.io/prime-suspects/)
 
 </td>
