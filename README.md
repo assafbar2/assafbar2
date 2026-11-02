@@ -28,7 +28,7 @@ My free field guide to deploying and operating AI customer support without break
 **Customer success**  
 *the operating layer, not the chatbot.*
 
-[The Support Machine — Second Edition](https://assafbar2.github.io/the-support-machine/) · [RECEIPT](https://github.com/assafbar2/receipt) · [Promise Ledger](https://github.com/assafbar2/promise-ledger) · [CALL-E](https://github.com/assafbar2/customer-success-voice-signal-hackathon) · [fcli](https://github.com/assafbar2/fcli) · [Sentry Playground](https://github.com/assafbar2/Sentry-Playground) · [barnirhired](https://barnirhired.com/)
+[The Support Machine — Second Edition](https://assafbar2.github.io/the-support-machine/) · [RECEIPT](https://github.com/assafbar2/receipt) · [Promise Ledger](https://github.com/assafbar2/promise-ledger) · [Stage Manager (CALL-E)](https://github.com/assafbar2/customer-success-voice-signal-hackathon) · [fcli](https://github.com/assafbar2/fcli) · [Sentry Playground](https://github.com/assafbar2/Sentry-Playground) · [barnirhired](https://barnirhired.com/)
 
 </td>
 <td valign="top" width="33%">
@@ -36,7 +36,7 @@ My free field guide to deploying and operating AI customer support without break
 **How I build**  
 *agents as coworkers, with minutes and a directory.*
 
-[Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev) · [Greenroom](https://github.com/assafbar2/greenroom) · [Ground Truth](https://github.com/assafbar2/ground-truth) · [Muse connector (unofficial)](https://github.com/assafbar2/unofficial-sentry-muse-connector)
+[Agent Switchboard](https://github.com/assafbar2/agentswitchboard.dev) · [Greenroom](https://github.com/assafbar2/greenroom) · [Suspect Memories](https://github.com/assafbar2/suspect-memories) · [Ground Truth](https://github.com/assafbar2/ground-truth) · [Muse connector (unofficial)](https://github.com/assafbar2/unofficial-sentry-muse-connector)
 
 </td>
 <td valign="top" width="33%">
