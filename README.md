@@ -69,7 +69,7 @@ My free field guide to deploying and operating AI customer support without break
 </td>
 <td valign="top" width="33%">
 
-**CS education**  
+**Computer Science**  
 *make the old languages delightful again.*
 
 [Mainframe Lab](https://github.com/assafbar2/mainframe-assembly-lab) · [VMS LSE](https://github.com/assafbar2/vms-lse-pascal) ([runtime](https://assafbar2.github.io/vms-lse-pascal/)) · [Ada Revival](https://github.com/assafbar2/ada-revival) · [Ada Quest](https://assafbar2.github.io/ada-quest/) · [Logo](https://github.com/assafbar2/logo-v2)
