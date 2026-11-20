@@ -25,6 +25,7 @@ Write IBM assembly in your browser. Run one instruction, watch a register change
 ### Customer success & support
 
 - [The Support Machine](https://assafbar2.github.io/the-support-machine/): A field guide to running AI support.
+- [QueueLab](https://github.com/assafbar2/queuelab): An open-source companion to *The Support Machine*. Tests whether a small model can learn to check the records before giving advice.
 - [Promise Ledger](https://github.com/assafbar2/promise-ledger): Check whether a customer can use what shipped.
 - [RECEIPT](https://github.com/assafbar2/receipt): Check what an agent did before retrying.
 - [Stage Manager (CALL-E)](https://github.com/assafbar2/customer-success-voice-signal-hackathon): Call the account owner when a decision can’t wait.
