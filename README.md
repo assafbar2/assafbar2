@@ -48,7 +48,7 @@ Write IBM assembly in your browser. Run one instruction, watch a register change
 - [VMS LSE](https://assafbar2.github.io/vms-lse-pascal/): Write, compile, and run Pascal in a VAX/VMS-style editor. ([code](https://github.com/assafbar2/vms-lse-pascal))
 - [Ada Revival](https://github.com/assafbar2/ada-revival): Write Ada and prove it correct with SPARK.
 - [Ada Quest](https://assafbar2.github.io/ada-quest/): Learn Ada and SPARK by fixing small bugs. ([code](https://github.com/assafbar2/ada-quest))
-- [Logo](https://github.com/assafbar2/logo-v2): Program the Logo turtle, as on early home computers.
+- [Logo](https://assafbar2.github.io/logo-v2/): Program the Logo turtle, as on early home computers. ([code](https://github.com/assafbar2/logo-v2))
 
 ### Games & simulations
 

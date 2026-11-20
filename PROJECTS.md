@@ -28,7 +28,7 @@
 - **[VMS LSE](https://assafbar2.github.io/vms-lse-pascal/)**. A VAX/VMS-style Pascal editor, compiler, linker, and runtime. [Source](https://github.com/assafbar2/vms-lse-pascal).
 - **[Ada Revival](https://github.com/assafbar2/ada-revival)**. An in-browser Ada playground with SPARK proofs.
 - **[Ada Quest](https://assafbar2.github.io/ada-quest/)**. Learn Ada and SPARK by finding bugs in small programs. [Source](https://github.com/assafbar2/ada-quest).
-- **[Logo](https://github.com/assafbar2/logo-v2)**. A remake of the turtle programming environment from the early days of personal computing.
+- **[Logo](https://assafbar2.github.io/logo-v2/)**. A remake of the turtle programming environment from the early days of personal computing. [Source](https://github.com/assafbar2/logo-v2).
 
 ## Games & simulations
 
