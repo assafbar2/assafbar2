@@ -31,6 +31,7 @@
 
 ## Games & simulations
 
+- **[Swarm](https://github.com/assafbar2/swarm)**. A 24-month customer-base simulation drawn as one continuous hand-drawn line: hatch up to 2,000 synthetic builders, make product or pricing moves, survive external shocks, and get a final report card.
 - **[Rumor Room](https://assafbar2.github.io/Rumor-Room-Muse-Edition/)**. Ten fictional scandals, four research turns, one lie. [Case study](https://www.barnir.co/builds/rumor-room) · [Original AI build](https://github.com/assafbar2/rumor-room#readme).
 - **[Conflict: 2027](https://conflict-2027.vercel.app/)**. A hackathon-built political simulation: can you negotiate a peace that lasts 48 turns? Playable; source private.
 - **[Prime Suspects](https://assafbar2.github.io/prime-suspects/)**. Twelve numbers in a lineup, one culprit, five probes.

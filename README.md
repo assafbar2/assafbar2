@@ -52,6 +52,7 @@ Write IBM assembly in your browser. Run one instruction, watch a register change
 
 ### Games & simulations
 
+- [Swarm](https://github.com/assafbar2/swarm): Simulate 2,000 synthetic customers over 24 months and watch the floor react.
 - [Rumor Room](https://assafbar2.github.io/Rumor-Room-Muse-Edition/): Investigate a fictional scandal and spot the lie.
 - [Conflict: 2027](https://conflict-2027.vercel.app/): Negotiate a peace that holds for 48 turns.
 - [Prime Suspects](https://assafbar2.github.io/prime-suspects/): Find one culprit among twelve numbers in five probes.
